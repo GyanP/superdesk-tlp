@@ -96,7 +96,7 @@ module.exports = function(grunt) {
         },
         pictures: {
             minWidth: 640,
-            minHeight: 480,
+            minHeight: 420,
         }
     };
 };
